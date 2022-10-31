@@ -1,0 +1,1 @@
+const appName = "ts-node-starter"
